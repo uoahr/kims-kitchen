@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.title {
+   /*  border: 1px solid red; */
+    /* width: 80%; */
+    /*  height: 200px; */
+    padding: 50px 0;
+}
+
+.title h1 {
+    font-size: 46px;
+    padding-bottom: 10px;
+}
+
+.title p {
+    font-size: 20px;
+    color: gray;
+}
+
+.content {
+    width: 100%;
+
+}
+
+.content .box {
+   /*  border: 1px solid red; */
+    width: 350px;
+    float: left;
+    margin: 0 auto;
+
+}
+
+.content .box1,
+.content .box2,
+.content .box3 {
+    margin-right: 35px;
+}
+
+.content .box a .img {
+    width: 350px;
+    border-radius: 10%;
+    
+}
+
+.content .box h2 {
+text-transform: ;
+}
